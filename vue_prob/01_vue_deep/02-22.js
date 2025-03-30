@@ -1,6 +1,6 @@
 let p = new Promise((resolve, reject) => {
     arr = ["first!", "second", "third"];
-    resolve(arr[])
+    resolve(arr)
 });
 
 p.then((msg) => {
@@ -8,10 +8,10 @@ p.then((msg) => {
     return "second";
 });
 
-.then((msg) => {
+p.then((msg) => {
     console.log(msg);
     return "third";
 })
-.catch((error) => {
+p.catch((error) => {
   console.log("오류 발생 ==> " + error);
 });
