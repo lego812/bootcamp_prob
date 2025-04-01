@@ -1,6 +1,8 @@
-import { createApp } from 'vue';
-import App from './App.vue';
-// import CheckboxItem from './components/CheckboxItem.vue';
+import { createApp } from 'vue'
+// import App from './App2.vue'
 
-// createApp(App).component('CheckboxItem', CheckboxItem).mount('#app');
-createApp(App).mount('#app');
+import App from './App.vue'
+// import CheckboxItem from './components/CheckboxItem.vue'
+
+// createApp(App).component(CheckboxItem,'CheckboxItem').mount('#app')
+createApp(App).mount('#app')
