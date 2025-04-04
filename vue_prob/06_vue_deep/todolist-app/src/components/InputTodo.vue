@@ -1,25 +1,37 @@
 <template>
-  <div class="col">
-    <ul class="list-group">
-      <TodoListItem
-        v-for="todoItem in todoList"
-        :key="todoItem.id"
-        :todoItem="todoItem"
-        @delete-todo="$emit('delete-todo', $event)"
-        @toggle-completed="$emit('toggle-completed', $event)"
-      />
-    </ul>
+  <div class="row mb-3">
+    <div class="col">
+      <div class="input-group">
+        <input
+          id="msg"
+          type="text"
+          class="form-control"
+          name="msg"
+          placeholder="할일을여기에입력!"
+          v-model.trim="todo"
+          @keyup.enter="addTodoHandler"
+        />
+        <span class="btn btn-primary input-group-addon" @click="addTodoHandler"
+          >추가</span
+        >
+      </div>
+    </div>
   </div>
 </template>
-
 <script>
-import TodoListItem from './TodoListItem.vue'
 export default {
-  name: 'InputTodo', // 각각 InputTodo , TodoList , TodoListItem
-  components: { TodoListItem },
-  props: {
-    todoList: { type: Array, required: true },
+  name: 'InputTodo',
+  data() {
+    return { todo: '' };
   },
-  emits: ['delete-todo', 'toggle-completed'],
-}
+  emits: ['add-todo'],
+  methods: {
+    addTodoHandler() {
+      if (this.todo.length >= 3) {
+        this.$emit('add-todo', this.todo);
+        this.todo = '';
+      }
+    },
+  },
+};
 </script>

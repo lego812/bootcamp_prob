@@ -1,31 +1,37 @@
 <template>
-<<<<<<< HEAD
-  <li class="list-group-item"  :class="{'list-group-item-success' : todoItem.completed}">
-    <span class="pointer" :class="{ 'todo-done': todoItem.completed }">
-      {{ todoItem.todo }}{{ todoItem.completed ? '(완료)' : '' }}</span>
-    <span class="float-end badge bg-secondary pointer">삭제</span>
-=======
-  <li
-    class="list-group-item"
-    :class="{ 'list-group-item-success': todoItem.completed }"
-    @click="$emit(toggle - completed, todoItem.id)"
-  >
-    <span class="pointer" :class="{ 'todo-done': todoItem.completed }"
-      >{{ todoItem.todo }}{{ todoItem.completed ? '(완료)' : '' }}</span
-    >
-    <span
-      class="float-end badge bg-secondary pointer"
-      @click.stop="$emit('delete-todo', todoItem.id)"
-      >삭제</span
-    >
->>>>>>> origin/main
-  </li>
+  <div class="row mb-3">
+    <div class="col">
+      <div class="input-group">
+        <input
+          id="msg"
+          type="text"
+          class="form-control"
+          name="msg"
+          placeholder="할일을여기에입력!"
+          v-model.trim="todo"
+          @keyup.enter="addTodoHandler"
+        />
+        <span class="btn btn-primary input-group-addon" @click="addTodoHandler"
+          >추가</span
+        >
+      </div>
+    </div>
+  </div>
 </template>
-
 <script>
 export default {
-  name: 'TodoListItem',
-  props: { todoItem: { type: Object, required: true } },
-  emits: ['delete-todo', 'toggle-completed'],
-}
+  name: 'InputTodo',
+  data() {
+    return { todo: '' };
+  },
+  emits: ['add-todo'],
+  methods: {
+    addTodoHandler() {
+      if (this.todo.length >= 3) {
+        this.$emit('add-todo', this.todo);
+        this.todo = '';
+      }
+    },
+  },
+};
 </script>
