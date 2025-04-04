@@ -25,7 +25,7 @@ export default {
     return {
       TodoList: [
         { id: ts, todo: '자전거 타기', completed: false },
-        { id: ts + 1, todo: '자전거 타기', completed: false },
+        { id: ts + 1, todo: '자전거 타기', completed: true },
         { id: ts + 2, todo: '자전거 타기', completed: false },
         { id: ts + 3, todo: '자전거 타기', completed: false },
       ],
