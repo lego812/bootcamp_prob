@@ -5,8 +5,12 @@
     </div>
     <div class="card card default card borderless">
       <div class="card body">
-        <InputTodo />
-        <TodoList />
+        <InputTodo @add-todo="addTodo" />
+        <TodoList
+          @todoList="todoList"
+          @delete-todo="deleteTodo"
+          @toggle-completed="toggleCompleted"
+        />
       </div>
     </div>
   </div>
