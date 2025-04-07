@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      let i = 0;
+      let sum = 0;
+      let Array = [10, 20, 30, 40, 50];
+
+      //for문
+      for (i = 0; i < Array.length; i++) {
+        sum += Array[i];
+        alert(sum);
+      }
+
+      //while문 사용
+      while (i < 5) {
+        sum += Array[i];
+        // alert(sum); 매 요소를 거쳐갈 때마다 변수sum의 변화측정
+        i++;
+      }
+      alert(sum);
+    </script>
+  </head>
+  <body></body>
+</html>
