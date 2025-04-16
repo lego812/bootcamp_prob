@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      function roof(ck, i) {
+        //콜백함수ck를 매개변수i만큼 반복하는 함수roof선언
+
+        //1. while문 사용한 방법
+        // let l = 0;
+        // while (l<i) {
+        //   ck();
+        //   l++;
+        // }
+
+        //2. for문 사용한 방법
+        for (l = 0; l < i; l++) {
+          ck();
+        }
+      }
+
+      function callback() {
+        // callback 함수
+        alert('함수호출');
+      }
+
+      roof(callback, 4); // callback함수 4회 반복
+    </script>
+  </head>
+  <body></body>
+</html>

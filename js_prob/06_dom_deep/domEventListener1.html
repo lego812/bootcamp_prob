@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      window.onload = function () {
+        //1. 전송버튼, 사용자 입력란 DO 생성
+        let button = document.getElementById('btn');
+        let input = document.getElementById('name');
+
+        //2. 전송버튼을 누르는 이벤트 생성
+        button.onclick = function () {
+          let name_inputted = input.value;
+          alert(name_inputted); //경고창에 이름 띄어줌줌
+        };
+      };
+    </script>
+  </head>
+  <body>
+    <form>
+      <label for="name">이름:</label>
+      <input id="name" name="name" type="text" size="30" />
+      <input id="btn" type="button" value="전송" />
+    </form>
+  </body>
+</html>
