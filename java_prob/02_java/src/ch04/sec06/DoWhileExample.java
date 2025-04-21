@@ -7,12 +7,13 @@ public class DoWhileExample {
         Scanner scanner = new Scanner(System.in);
         System.out.println("메시지를 입력하세요.");
         System.out.println("프로그램을 종료하려면 q를 입력하세요.");
+        String str;
 
         do {
             System.out.println(">");
-            String str=scanner.nextLine();
+            str = scanner.nextLine();
             System.out.println(str);
-        }while(!str.equls("q"));
+        } while (!str.equals("q"));
 
     }
 }
