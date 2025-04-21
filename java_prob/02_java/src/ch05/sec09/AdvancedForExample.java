@@ -9,6 +9,5 @@ public class AdvancedForExample {
         }
         System.out.println(sum);
         System.out.println((double)sum/scores.length);
-
     }
 }
