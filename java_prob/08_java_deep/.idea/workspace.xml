@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1b0f2cb-f3cf-4ead-b1e7-bac1bbbb0808" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/java_prob.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/01_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch01/sec09/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch01/sec11/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch01/verify/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch02/VariableInitializationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch02/sec01/VariableExchangeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch02/sec01/VariableUseExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch02/sec06/StringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch02/sec08/CastingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch03/sec01/IncreaseDecreaseOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch03/sec04/AccuracyExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch03/sec04/AccuracyExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch03/sec06/CompareOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch03/sec07/LogicalOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch03/sec09/StringConcatExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch03/sec10/AssignmentOperatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java/src/ch03/sec11/ConditionalOperationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/01_java_deep.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/src/ch02/operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/src/ch02/sec10/PrimitiveAndStringConversionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/src/ch02/sec12/PrintfExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/src/ch02/sec13/scannerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_java_deep/src/ch02/trapezoid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/02_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec02/IfDiceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec02/IfElseExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec02/IfElseIfElseExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec02/IfExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec02/IfNestedExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec03/SwitchCharExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec03/SwitchExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec03/SwitchNoBreakCaseExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec04/MultiplicationTableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec04/PrintFrom1To10Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec04/SumFrom1To100Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec05/KeyControlExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec05/PrintFrom1To10Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec06/DoWhileExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec07/BreakExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch04/sec08/ContinueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec03/ReferenceVariableCompareExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec04/NullPointerExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec05/CharAtExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec05/EmptyStringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec05/EqualsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec05/IndexOfContainsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec05/LengthExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec05/ReplaceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec05/SplitExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec05/SubStringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec06/ArrayCreateByNewExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec06/ArrayCreateByValueListExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec06/ArrayCreateByValueListExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec06/ArrayLengthExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec08/ArrayReferenceObjectExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec09/AdvancedForExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec09/ArrayCopyByForExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_java/src/ch05/sec09/ArrayCopyExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/ch06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec06/exam01/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec07/exam01/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec07/exam01/CarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec07/exam02/Korean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec07/exam02/KoreanExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec07/exam03/Korean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec07/exam04/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec07/exam04/CarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec07/exam05/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec07/exam05/CarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec08/exam01/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec08/exam01/CalculatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec08/exam02/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec08/exam02/ComputerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec08/exam03/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec08/exam03/CarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec08/exam04/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec08/exam04/CalculatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec09/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec09/CarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec10/exam01/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_java/src/ch06/sec10/exam01/CalculatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/04_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec03/exam02/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec03/exam02/SmartPhoneExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec03/exam02/Smartphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec04/exam01/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec04/exam01/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec04/exam01/ComputerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec04/exam02/Airplane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec04/exam02/SupersonicAirplane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec04/exam02/SupersonicAirplaneExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec07/exam01/PromotionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec07/exam02/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec07/exam02/ChildExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec07/exam02/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec07/exam03/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec07/exam03/ChildExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec07/exam03/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam01/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam01/CarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam01/HankookTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam01/KumhoTire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam01/Tire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam02/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam02/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam02/DriverExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam02/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_java/src/ch07/sec08/exam02/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/05_Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec02/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec02/RemoteControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec02/RemoteControlExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec02/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec04/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec04/RemoteControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec04/RemoteControlExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec04/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec08/MultiInterfaceImplExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec08/RemoteControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec08/Searchable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec08/SmartTelevision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec09/ExtendsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec09/InterfaceA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec09/InterfaceB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec09/InterfaceC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec09/InterfaceCImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec10/exam02/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec10/exam02/CastingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Java/src/ch08/sec10/exam02/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/.idea/libraries/lombok.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/07_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/lib/lombok.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch11/sec02/exam01/ExceptionHandlingExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch11/sec03/exam01/ExceptionHandlingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch11/sec03/exam03/ExceptionHandlingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch11/sec05/ThrowsExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch12/sec03/exam02/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch12/sec03/exam05/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch12/sec04/MeasureRunTimeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch12/sec05/StringBuilderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch12/sec05/StringTokenizerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch12/sec08/CalendarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java/src/ch12/sec08/DateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java_deep/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java_deep/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java_deep/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java_deep/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java_deep/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java_deep/07_java_deep.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_java_deep/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_java/08_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_java/src/ch14/sec03/exam02/BeepPrintExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_java/src/ch14/sec03/exam03/BeepPrintExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_java_deep.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch14/exam/MovieThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch14/exam/MusicRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch14/exam/ThreadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18회차_실습체크리스트_박다빈.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-05.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-06.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-07.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-09.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-16.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-17.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-18.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/02-20-main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/ex01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue/modules/02-19-module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue_deep/02-21.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue_deep/02-22.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/01_vue_deep/02-23.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/02_vue/03-01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/02_vue/03-03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/02_vue/03-04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/02_vue/03-05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/02_vue/03-06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/02_vue/03-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/02_vue/03-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/03_vue/04-03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/03_vue/04-05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/03_vue/04-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/03_vue/05-01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/03_vue/05-02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/03_vue/05-04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/04_vue/04-06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/App2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/App4.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/components/CheckboxItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/components/CheckboxItem2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/components/InputName.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue/test-vue-app/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/src/components/InputTodo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/src/components/TodoList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/src/components/TodoListItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/06_vue_deep/todolist-app/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/.prettierrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/src/components/CheckBox1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/src/components/CheckBox2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/src/components/NoSlotTest.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/src/components/SlotTest.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/slot-test/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/src/components/Child1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/src/components/Child2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/src/components/Child3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/07_vue/style-test/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/.prettierrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/components/Calc.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/components/Calc2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/components/Calc3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/components/Calc4.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/components/Calc5.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue_prob/08_vue/calc-component-test/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2wAMNRSrf6Mo0s1eQf5rsVPg1tz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ThreadExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch14.exam" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14.exam.ThreadExample" />
+      <module name="08_java_deep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch14.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1b0f2cb-f3cf-4ead-b1e7-bac1bbbb0808" name="Changes" comment="" />
+      <created>1745479885630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745479885630</updated>
+      <workItem from="1745479886682" duration="2587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
