@@ -58,6 +58,10 @@ public class page10 {
                     System.out.println("프로그램 종료");
                     return;  // 또는 break 후 루프 종료 처리
             }
+//
+//            if (choice == 4) {
+//                break;
+//            }
         }
 
     }
