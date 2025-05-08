@@ -4,8 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f65f3c-62d4-45d2-bc38-025d9b68bfe1" name="Changes" comment="">
+    <list default="true" id="1cdf3da9-f3f5-40b1-95e2-73ee12745cc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam01/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/exam01/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/exam02/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/exam02/AExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam01/A$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam01/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam01/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam01/AExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam01/AExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam02/A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam02/A$B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam02/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam02/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam02/AExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/06_java/ch09/sec02/exam02/AExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec03/exam01/A$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec03/exam01/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec03/exam01/AExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec03/exam02/A$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec03/exam02/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/06_java/ch09/sec03/exam02/AExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,32 +46,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2wROuwXaTLdmh2ZMBXMl5ciHhZP" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2woA95IXyybLw9BemAl00weIeYa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ch09.sec03.exam02.AExample.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AExample.executor": "Run",
+    "Application.sec03.exam02.AExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.ch09.sec03.exam02.AExample">
+}]]></component>
+  <component name="RunManager" selected="Application.sec03.exam02.AExample">
     <configuration name="AExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch09.sec02.exam02.AExample" />
       <module name="06_java" />
@@ -61,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch09.sec03.exam02.AExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.sec03.exam02.AExample" />
+    <configuration name="sec03.exam02.AExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sec03.exam02.AExample" />
       <module name="06_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.sec03.exam02.*" />
+          <option name="PATTERN" value="sec03.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,7 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch09.sec03.exam02.AExample" />
+        <item itemvalue="Application.sec03.exam02.AExample" />
         <item itemvalue="Application.AExample" />
       </list>
     </recent_temporary>
@@ -92,14 +117,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="95f65f3c-62d4-45d2-bc38-025d9b68bfe1" name="Changes" comment="" />
-      <created>1746001147782</created>
+      <changelist id="1cdf3da9-f3f5-40b1-95e2-73ee12745cc6" name="Changes" comment="" />
+      <created>1746697398538</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1746001147782</updated>
-      <workItem from="1746001148876" duration="1933000" />
-      <workItem from="1746583451844" duration="6000" />
-      <workItem from="1746583511683" duration="12000" />
+      <updated>1746697398538</updated>
+      <workItem from="1746697400138" duration="1010000" />
     </task>
     <servers />
   </component>
