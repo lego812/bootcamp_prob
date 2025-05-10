@@ -1,4 +1,4 @@
-package sec03.exam01;
+package ch09.sec03.exam01;
 
 public class A {
     //static 멤버 클래스

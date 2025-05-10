@@ -1,4 +1,4 @@
-package sec03.exam02;
+package ch09.sec03.exam02;
 
 public class A {
     //정적 멤버 클래스
