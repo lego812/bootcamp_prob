@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cdf3da9-f3f5-40b1-95e2-73ee12745cc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam01/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam03/ButtonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam02/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam02/HomeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam02/RemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/sec02/exam02/AExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/AExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec03/exam01/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec03/exam01/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec03/exam01/AExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec03/exam01/AExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec03/exam02/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec03/exam02/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec03/exam02/AExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/sec03/exam02/AExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../18회차_실습체크리스트_박다빈.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../18회차_실습체크리스트_박다빈.xlsx" afterDir="false" />
-    </list>
+    <list default="true" id="1cdf3da9-f3f5-40b1-95e2-73ee12745cc6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746697398538</updated>
       <workItem from="1746697400138" duration="1010000" />
-      <workItem from="1746839634597" duration="2501000" />
+      <workItem from="1746839634597" duration="2718000" />
     </task>
     <servers />
   </component>
