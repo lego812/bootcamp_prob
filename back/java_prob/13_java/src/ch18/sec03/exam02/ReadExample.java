@@ -9,16 +9,17 @@ public class ReadExample {
             InputStream is=new FileInputStream("c:/temp/test1.txt");
 
             byte[] data=new byte[1024];
-            int index=0;
+
 
             while(true){
-                int buf=is.read();
+                int buf=is.read(data);
                 if(buf==-1){
                     break;
                 }
 
-                data[index++]=(byte)buf;
-
+                for(int i=0;i<buf;i++){
+                    System.out.print((char)data[i]);
+                }
             }
             is.close();
 
