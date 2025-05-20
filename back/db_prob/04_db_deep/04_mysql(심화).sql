@@ -57,19 +57,44 @@ select a.emp, a.manager, b.empTel from emptbl a join emptbl b on a.manager=b.emp
 
 -- 현재 재직 중인 직원의 정보를 출력하세요
 -- ○ 출력 항목: emp_no, first_name, last_name, title
-select a.emp_no, b.first_name, b.last_name, a.title from titles a join employees b on a.emp_no = b.emp_no where a.to_date = '9999-01-01';
+select a.emp_no, b.first_name, b.last_name, a.title from titles a
+ join employees b on a.emp_no = b.emp_no
+ where a.to_date = '9999-01-01';
 
 -- 현재 재직 중인 직원 정보를 출력하세요
 -- ○ 출력항목: 직원의 기본 정보 모두, title, salary
-select * from titles a join employees b on a.emp_no = b.emp_no jowhere a.to_rate='1999-01-01'; 
+select b.*, a.title, c.salary from titles a 
+join employees b on a.emp_no = b.emp_no 
+join salaries c on b.emp_no=c.emp_no 
+where a.to_date='9999-01-01' and c.to_date='9999-01-01';
+
 
 -- 현재 재직중인 직원의 정보를 출력하세요.
 -- ○ 출력항목: emp_no, first_name, last_name, department
 -- ○ 정렬: emp_no 오름 차순
+select a.emp_no, a.first_name, a.last_name, c.dept_name as department from employees a
+join dept_emp b on a.emp_no = b.emp_no
+join departments c on b.dept_no= c.dept_no
+where b.to_date='9999-01-01'
+order by a.emp_no;
+
 
 -- 부서별 재직중인 직원의 수를 출력하세요.
 -- ○ 출력 항목: 부서 번호, 부서명, 인원수
 -- ○ 정렬: 부서 번호 오름차순
+select a.dept_no, a.dept_name, count(*) from departments a
+join dept_emp b on a.dept_no=b.dept_no
+join employees c on b.emp_no=c.emp_no
+where b.to_date='9999-01-01'
+group by a.dept_no
+order by a.dept_no;
+
 
 -- 직원 번호가 10209인 직원의 부서 이동 히스토리를 출력하세요.
 -- ○ 출력항목: emp_no, first_name, last_name, dept_name, from_date, to_date
+select a.emp_no, a.first_name, a.last_name, c.dept_name, b.from_date, b.to_date
+from employees a
+join dept_emp b on a.emp_no=b.emp_no
+join departments c on b.dept_no=c.dept_no
+where a.emp_no='10209'
+order by b.from_date;
