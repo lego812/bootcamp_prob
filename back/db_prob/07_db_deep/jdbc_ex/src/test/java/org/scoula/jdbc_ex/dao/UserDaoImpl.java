@@ -26,7 +26,6 @@ public class UserDaoImpl implements UserDao {
     //유저 생성
     @Override
     public int create(UserVO user) throws SQLException {
-        UserVO vo=new UserVO();
         try(PreparedStatement ps=con.prepareStatement(user_insert)) {
             ps.setString(1, user.getId());
             ps.setString(2, user.getPassword());
