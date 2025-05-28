@@ -3,6 +3,8 @@ package org.scoula.travel.domain;
 
 import lombok.*;
 
+import java.util.List;
+
 @Data
 @Builder
 @ToString
@@ -16,4 +18,6 @@ public class TravelVO {
     private String description;
     private String address;
     private String phone;
+
+    private List<TravelImageVO> images;
 }
