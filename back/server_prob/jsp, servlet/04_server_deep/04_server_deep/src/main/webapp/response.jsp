@@ -7,7 +7,7 @@
 </head>
 <body>
 username 값: ${username}<br>
-userAddress 값: ${useraddress}<br><br>
+userAddress 값: ${userAddress}<br><br>
 
 </body>
 </html>
