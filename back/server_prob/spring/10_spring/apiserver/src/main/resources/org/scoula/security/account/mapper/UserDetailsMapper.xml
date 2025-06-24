@@ -4,12 +4,23 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <mapper namespace="org.scoula.security.account.mapper.UserDetailsMapper">
+    <resultMap id="authMap" type="AuthVO">
+        <result property="username" column="username"/>
+        <result property="auth" column="auth"/>
+    </resultMap>
+    
+    <resultMap id="memberMap" type="MemberVO">
+        <result property="username" column="username"/>
+        <result property="password" column="password"/>
+        <result property="email" column="email"/>
+        <result property="reg_date" column="reg_date"/>
+        <result property="update_date" column="update_date"/>
+        <collection property="authList" resultMap="authMap"/>
+    </resultMap>
 
-    <!--    검색하는 sql문 태그로 넣자.!!! -->
-    <select id="get" resultType="MemberVO">
-        select *
-        from tbl_member
-        where username = #{username}
-        <!-- 조인해서 가지고 와야함. 1:n의 관계 -->
+    <select id="get" resultMap="memberMap">
+        select m.username, m.password, m.email, m.reg_date, m.update_date,a.auth
+        from tbl_member m left join tbl_member_auth a on m.username=a.username
+        where m.username=#{username};
     </select>
 </mapper>
