@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="org.scoula.security.account.mapper.UserDetailsMapper">
+    <resultMap id="authMap" type="AuthVO">
+        <result property="username" column="username"/>
+        <result property="auth" column="auth"/>
+    </resultMap>
+    
+    <resultMap id="memberMap" type="MemberVO">
+        <result property="username" column="username"/>
+        <result property="password" column="password"/>
+        <result property="email" column="email"/>
+        <result property="reg_date" column="reg_date"/>
+        <result property="update_date" column="update_date"/>
+        <collection property="authList" resultMap="authMap"/>
+    </resultMap>
+
+    <select id="get" resultMap="memberMap">
+        select m.username, m.password, m.email, m.reg_date, m.update_date,a.auth
+        from tbl_member m left join tbl_member_auth a on m.username=a.username
+        where m.username=#{username};
+    </select>
+</mapper>
