@@ -6,6 +6,7 @@ import MenuItem from './MenuItem.vue';
 import AccountMenuItem from './AccountMenuItem.vue';
 import LogoutMenuItem from './LogoutMenuItem.vue';
 import config from '@/config';
+
 // 설정 파일에서 계정 메뉴 가져오기
 const { login, join } = config.accoutMenus;
 import { useAuthStore } from '@/stores/auth.js';

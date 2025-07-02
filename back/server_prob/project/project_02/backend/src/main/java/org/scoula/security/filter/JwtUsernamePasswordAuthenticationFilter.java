@@ -35,6 +35,7 @@ public class JwtUsernamePasswordAuthenticationFilter extends UsernamePasswordAut
     @Override
     public Authentication attemptAuthentication(HttpServletRequest request, HttpServletResponse response) throws AuthenticationException {
 
+        log.info("Attempting to authenticate");
         // 요청 BODY의 JSON에서 username, password → LoginDTO
         LoginDTO login=LoginDTO.of(request);
 

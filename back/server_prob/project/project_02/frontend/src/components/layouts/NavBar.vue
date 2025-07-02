@@ -21,7 +21,10 @@ let navClass = computed(() =>
 );
 
 // 버튼 클릭 등으로 isNavShow 값을 true/false로 토글하는 함수
-const toggleNavShow = () => (state.isNavShow = !state.isNavShow);
+const toggleNavShow = () => {
+    state.isNavShow = !state.isNavShow;
+    console.log("히히 방구발싸");
+};
 </script>
 
 <template>

@@ -13,8 +13,8 @@
         <result property="username" column="username"/>
         <result property="password" column="password"/>
         <result property="email" column="email"/>
-        <result property="reg_date" column="reg_date"/>
-        <result property="update_date" column="update_date"/>
+        <result property="regDate" column="reg_date"/>
+        <result property="updateDate" column="update_date"/>
         <collection property="authList" resultMap="authMap"/>
     </resultMap>
 

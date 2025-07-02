@@ -25,6 +25,7 @@ public class LoginSuccessHandler implements AuthenticationSuccessHandler {
     private final JwtProcessor jwtProcessor;
 
     private AuthResultDTO makeAuthResult(CustomUser user){
+        log.info("makeAuthResult");
         String username=user.getUsername();
         String token=jwtProcessor.generateToken(username);
         return new AuthResultDTO(token, UserInfoDTO.of(user.getMember()));
@@ -32,6 +33,7 @@ public class LoginSuccessHandler implements AuthenticationSuccessHandler {
 
     @Override
     public void onAuthenticationSuccess(HttpServletRequest request, HttpServletResponse response, Authentication authentication) throws IOException, ServletException {
+        log.info("onAuthenticationSuccess");
         CustomUser user=(CustomUser) authentication.getPrincipal();
         AuthResultDTO result=makeAuthResult(user);
         JsonResponse.send(response, result);

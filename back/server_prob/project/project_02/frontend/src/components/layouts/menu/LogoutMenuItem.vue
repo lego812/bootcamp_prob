@@ -1,11 +1,15 @@
 <script setup>
 // 라우터 인스턴스 가져옴
 import { useRouter } from 'vue-router';
+
+import { useAuthStore } from '@/stores/auth';
+const store = useAuthStore();
 // 라우터 객체 생성
 const router = useRouter();
 // 로그아웃 시 홈으로 이동
 const logout = (e) => {
   // 로그아웃
+  store.logout();
   router.push('/');
 };
 </script>
